@@ -26,8 +26,7 @@ To fully benefit from the coverage included in this course, you will need:
 ### Technical Requirements
 This course has the following software requirements:
 * Recent Client Operating System (Windows 10, Linux, MacOS) * An editor like Atom, Sublime Text or Visual Studio Code (Visual Studio Code is used in the demos and examples)
-* An active
-* Azure subscription (trial, Enterprise Agreement, CSP, Pay-as-you-Go,…)
+* An active Azure subscription (trial, Enterprise Agreement, CSP, Pay-as-you-Go,…)
 
 This course has been built and tested on the following system configuration:
 * OS: Windows 10
