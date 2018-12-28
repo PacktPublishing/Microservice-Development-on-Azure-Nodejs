@@ -19,15 +19,21 @@ By the end of the course, you will have mastered building an application in Node
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
-This course is for application developers who are new to Azure and are interested in learning how to develop and deploy Node.js applications on Azure. The course will help you understand the benefits of deploying your Node.js applications on Azure. It will help you learn about Azure building blocks: Azure Web Apps.
+To fully benefit from the coverage included in this course, you will need:
+* Prior working knowledge of the JavaScript language
+* Basic understanding of Azure Platform Services
+* Basic understanding of Docker and how containers work
 ### Technical Requirements
-This course has the following software requirements:<br/>
-* Windows 10 or Server 2016/2019, Linux Client OS, MacOS
-* Visual Studio Code
-* Node.js
-* MongoDB Community Server
-* Docker CE
+This course has the following software requirements:
+* Recent Client Operating System (Windows 10, Linux, MacOS) * An editor like Atom, Sublime Text or Visual Studio Code (Visual Studio Code is used in the demos and examples)
+* An active
+* Azure subscription (trial, Enterprise Agreement, CSP, Pay-as-you-Go,…)
+
+This course has been built and tested on the following system configuration:
+* OS: Windows 10
+* Processor: Dual Core 3.0 Ghz
+* Memory: 8GB
+* Hard Disk Free Space: 200MB
 
 ## Related Products
 * [Architecting an Azure Compute Infrastructure [Video]](https://www.packtpub.com/virtualization-and-cloud/architecting-azure-compute-infrastructure-video?utm_source=github&utm_medium=repository&utm_campaign=9781788392396)
